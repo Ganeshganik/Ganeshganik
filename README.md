@@ -39,7 +39,7 @@ I'm passionate about data analytics, business intelligence, and artificial intel
 
 
 
-**Libraries & Tools:** Pandas, NumPy, Matplotlib, Scikit-learn, Git, GitHub, VS Code
+Additional Libraries: Matplotlib, Scikit-learn
 
 ## 🚀 Projects
 
